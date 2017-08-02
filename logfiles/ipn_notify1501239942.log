@@ -1,0 +1,13 @@
+Array
+(
+    [/website/user_booking_payment_notify] => 
+    [status] => Success
+    [referrer] => sandbox.ibillme.com
+    [date_sent] => 2017-07-28 11:05 am
+    [customid] => 17
+    [email] => pratik@gmail.com
+    [transaction_id] => upz1707064
+    [total] => 18.31
+    [transaction_fee] => 0.31
+    [amount] => 18
+)

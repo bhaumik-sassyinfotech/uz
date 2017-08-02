@@ -1,0 +1,283 @@
+.listing-pagination ul li a.current span {    background: #fa230f;    color: #fff;    border: 1px solid #fa230f;}.error {    color:red;}/*Calendar Css*/.cal1 .clndr .clndr-table tr .day.event .day-contents{	background: #fa230f !important;}.cal1 .clndr .clndr-table tr .day .day-contents:hover{	cursor: pointer;}.cal1 .clndr .clndr-table tr .day.selected-date .day-contents{	width: 35px;    height: 35px;    margin: auto;    background: #4285f4;    color: #fff;}.cal1 .clndr .clndr-table tr .past{    	background: #ddd;}.cal1 .clndr .clndr-table tr .day.booked-hit-parse .day-contents{	width: 35px;    height: 35px;    margin: auto;    background: orange;    color: #fff;}input.time_slot_book {    position: absolute;    width: 100%;    left: 0;    height: 100%;    top: 0;    opacity: 0;}.hrs-avail-tb-td > a.site-btn {    position: relative;}#coupon_code.error{	border: 1px solid red;}#coupon_code_msg span.msg_ss{	color: green;}#coupon_code_msg span.msg_ff{	color: red;}/* loading */.loader-container{	position: relative;}.loading{position: absolute;left: 0; top: 0; right: 0; bottom: 0;z-index: 2;background: rgba(255,255,255,0.7);}.loading .content {    position: absolute;    transform: translateY(-50%);     -webkit-transform: translateY(-50%);     -ms-transform: translateY(-50%);    top: 50%;    left: 0;    right: 0;    text-align: center;    color: #555;}.container.bottom-spacing .button-wrapper{    position: relative;    top:25px;}/*C-12-7  custom*/.clnd-div-col .cal1 .clndr .clndr-controls .clndr-control-button .clndr-next-button,.clnd-div-col .cal1 .clndr .clndr-controls .clndr-control-button .clndr-previous-button{    font-size: 0;    position: relative;}.clnd-div-col .cal1 .clndr .clndr-controls .clndr-control-button .clndr-next-button:after{    font-size: 22px;    content: "\f18e";    font-family: FontAwesome;    position: relative;    top: 2px;}.clnd-div-col .cal1 .clndr .clndr-controls .clndr-control-button .clndr-previous-button:before{    font-size: 22px;    content: "\f190";    font-family: FontAwesome;    position: relative;    top: 2px;}.cal1 .clndr .clndr-controls .clndr-control-button .clndr-previous-button.inactive{}.cal1 .clndr .clndr-controls .clndr-control-button .clndr-next-button {    font-size: 0;    position: relative;}@media screen and (max-width:767px){.check-out .login-area {width: 100%}}@media screen and (min-width: 580px){    .contact-us-wrap .contact-page-content .contact-page-content-form .form-group.gp-contact-form-group:nth-child(odd) ,    .contact-us-wrap .contact-page-content .contact-page-content-form .form-group.gp-contact-form-group:nth-child(even){        display: block;        float: left;        width: 50%;    }    .contact-us-wrap .contact-page-content .contact-page-content-form .form-group.gp-contact-form-group:nth-child(6),    .contact-us-wrap .contact-page-content .contact-page-content-form .form-group.gp-contact-form-group:last-child{        width: 100%;    }.contact-us-wrap .contact-page-content .radio-inline {width:240px !important}}@media screen and (max-width: 579px){.error-page .heading {margin-top: -60px !important;} .check-out .contact-page-content-form .form-group.gp-contact-form-group:nth-child(6), .check-out .contact-page-content-form .form-group.gp-contact-form-group:last-child {max-width: unset !important; width: 100% !important}   .contact-us-wrap .contact-page-content .contact-page-content-form .form-group.gp-contact-form-group{        display: block;        float: left;        width: 100%;    }    .contact-us-wrap .contact-page-content .day-selected-inner tr .form-group.gp-contact-form-group{        width: 100%;    }    .contact-us-wrap .contact-page-content .day-selected-inner tr .site-btn{        width: calc(50% - 10px);        float: left;    }    .contact-us-wrap .contact-page-content .day-selected-inner tr .site-btn:not(:last-child){        margin-right: 10px;    }}@media screen and (max-width: 380px){    .contact-us-wrap .contact-page-content .day-selected-inner tr .site-btn{        width: 80%;        float: none !important;        margin: 10px auto !important;    }.contact-us-wrap .contact-page-content .radio-inline {width:150px !important}}
+@media (max-width: 992px ) {
+    .graph{width: 100%;}
+    .graph .chart {padding-left: 0px !important; padding-right: 0px !important;}
+    .success-page .error-wrapper .order-info { width: 100% !important;}
+}
+@media (min-width: 767px) and (max-width: 800px) {
+    .graph svg{width: 95% !important; height: 300px}
+    .graph .chart #barchart, .graph .chart #linechart {width: 95% !important; height: 300px}
+}
+@media (max-width: 767px) {
+#advertisement .al-table-col  .my-advertisement-tab #schedul .media .price span {color: #000; font-weight: 600;padding: 10px;}
+#advertisement .al-table-col  .my-advertisement-tab #schedul .media .price button {color: white !important;margin-top: 3px;padding: 8px 14px 8px 15px !important}
+    .graph .back-button {top: 0px !important}
+    .graph .banner-link {top: -7px !important}
+    .abt-cms-wrap {padding: 10px !important}
+    .listing-pagination {padding-top: 20px; text-align: center;}
+    .banner-info-sec2, .web-info-wrap {padding: 0px}
+    .web-info-wrap .web-info-text {margin-bottom: 0px}
+    .banner-info-sec1 .banner-info-sec1-inner{padding: 50px 0px;}
+    .contact-page-content .contact-submit-btn .btn {padding: 10px 10px}
+}
+@media (min-width: 767px) and (max-width: 1024px) {
+    .col-md-3, .col-md-9 {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+}
+
+
+.booking-process h1 {
+    text-align: center;
+    border-top: 1px solid #eaeaea;
+    border-bottom: 1px solid #eaeaea;
+    padding: 15px 10px;
+    display: inline-block;
+    margin: 15px auto;
+}
+.booking-process {
+    text-align: center;
+}
+.booking-process .progress-image {
+    display: block;
+    margin: 0 auto;
+} 
+
+
+button, a {outline: none !important;}
+/*=========SIDEBAR MENU===================*/
+
+    #myaccount .nav-tabs > li > a, #myaccount .al-left-menu a, #advertisement .nav-tabs > li > a, #advertisement .al-left-menu a
+    {
+        display: block;
+        background-color: #af0f19;
+        margin: 10px;
+        width: 250px;
+        padding: 15px;
+    }
+#myaccount .nav-tabs > li > a:hover, #myaccount .al-left-menu a:hover, #advertisement .nav-tabs > li > a:hover, #advertisement .al-left-menu a:hover
+    {
+        color: white;
+        background-color: #ff0111 ;
+    }
+#myaccount .nav-tabs > li > a:focus, #myaccount .al-left-menu .active, #myaccount .nav-tabs > li > a, #myaccount .al-left-menu a:focus,
+#advertisement .nav-tabs > li > a:focus, #advertisement .al-left-menu .active, #advertisement .nav-tabs > li > a, #advertisement .al-left-menu a:focus
+    {
+        color: #000 !important;
+        background-color: #fff ;
+    }
+ 
+
+/*=========SIGNUP FORM===================*/
+#signupCustomerForm {max-width: 850px;width: auto; margin: 0 auto; margin-bottom: 20px}
+#signupCustomerForm .al-right-contener-head{font: 30px Roboto-Black; text-align: center}
+#signupCustomerForm .alrft-col {padding: 5px}
+#signupCustomerForm .alrft-col input {height: 50px; border-radius: 0;}
+#signupCustomerForm .alrft-col .alrft-col-no {position: absolute; line-height: 20px; padding: 15px; background-color: lightgray;}
+#signupCustomerForm .al-right-btn-wrapper {margin: 0 auto;display: table}
+#signupCustomerForm .al-right-btn-wrapper .button {float: left; padding: 10px}
+#signupCustomerForm .al-right-btn-wrapper .button .btn-default {font: 15px Roboto-Bold; padding: 6px 12px; text-transform: uppercase; height: 40px; padding: 6px 30px; border-radius: 27px; background: #fff; color: #fa230f; border: 1px solid #fff; box-shadow: 2px 2px 0px 2px #fa230f; -webkit-border-radius: 27px; -moz-border-radius: 27px; -ms-border-radius: 27px; border-radius: 27px;}
+#signupCustomerForm .al-right-btn-wrapper .button .btn-default:hover{border: 1px solid #fa230f; color: #fff; background: #fa230f; box-shadow: 0px 0px 0px 0px #fff;}
+#signupCustomerForm .al-right-btn-wrapper .button .cancel {font: 15px Roboto-Bold; padding: 6px 12px; text-transform: uppercase; height: 40px; padding: 6px 30px; border-radius: 27px; background: #fff; color: #fa230f; border: 1px solid #fff; box-shadow: 2px 2px 0px 2px #a5a5a5; -webkit-border-radius: 27px; -moz-border-radius: 27px; -ms-border-radius: 27px; border-radius: 27px;}
+#signupCustomerForm .al-right-btn-wrapper .button .cancel:hover {border: 1px solid #a5a5a5; color: #fff; background: #a5a5a5; box-shadow: 0px 0px 0px 0px #fff;}
+
+
+/*=========LOGIN FORM===================*/
+.login-section {max-width: 500px;width: auto; margin: 0 auto; margin-bottom: 50px}
+.login-section .message .alert {padding: 5px;}
+.login-section .message .alert-success {text-align: center}
+.login-section .tab-content #customer-login #loginCustomerForm{margin-top: 20px}
+.login-section .tab-content #customer-login #loginCustomerForm .al-right-contener-head {font: 30px Roboto-Black;text-align: center}
+.login-section .tab-content #customer-login #loginCustomerForm .login-form-box span img {position: absolute; background-color: darkgray; padding: 5px;}
+.login-section .tab-content #customer-login #loginCustomerForm .login-form-box input{height: 50px; border-radius: 0; text-indent: 50px;}
+.login-section .tab-content #customer-login #loginCustomerForm .btn-row .sign-in-btn button{margin: 0 auto;display: table; font: 15px Roboto-Bold; padding: 6px 12px; text-transform: uppercase; height: 40px; padding: 6px 30px; border-radius: 27px; background: #fff !important; color: #fa230f !important; border: 1px solid #fff !important; box-shadow: 2px 2px 0px 2px #fa230f; -webkit-border-radius: 27px; -moz-border-radius: 27px; -ms-border-radius: 27px; border-radius: 27px;}
+.login-section .tab-content #customer-login #loginCustomerForm .btn-row .sign-in-btn button:hover{border: 1px solid #fa230f; color: #fff !important; background: #fa230f !important; box-shadow: 0px 0px 0px 0px #fff;}
+
+.login-section .tab-content #customer-login #loginCustomerForm .forgot-pass-txt {position: absolute; margin-top: -25px;}
+.login-section .tab-content #customer-login #loginCustomerForm .forgot-pass-txt a {color: gray !important; /*text-decoration: underline*/}
+.login-section .tab-content #customer-login #loginCustomerForm .forgot-pass-txt a:hover {color: red !important;}
+
+/*=========FORGOT PASSWORD FORM===================*/
+
+#forgotCustomerForm {max-width: 500px;width: auto; margin: 0 auto; margin-bottom: 20px}
+#forgotCustomerForm .al-right-contener-head {font: 30px Roboto-Black;text-align: center}
+#forgotCustomerForm .al-right-content .alrft-col {padding: 5px}
+#forgotCustomerForm .al-right-content .alrft-col input {height: 50px; border-radius: 0;}
+#forgotCustomerForm .al-right-content .al-right-btn-wrapper {margin: 0 auto; display: table}
+#forgotCustomerForm .al-right-content .al-right-btn-wrapper .button {float: left; padding: 10px}
+#forgotCustomerForm .al-right-content .al-right-btn-wrapper .btn-default {font: 15px Roboto-Bold; padding: 6px 12px; text-transform: uppercase; height: 40px; padding: 6px 30px; border-radius: 27px; background: #fff; color: #fa230f; border: 1px solid #fff; box-shadow: 2px 2px 0px 2px #fa230f; -webkit-border-radius: 27px; -moz-border-radius: 27px; -ms-border-radius: 27px; border-radius: 27px;}
+#forgotCustomerForm .al-right-content .al-right-btn-wrapper .btn-default:hover{border: 1px solid #fa230f; color: #fff; background: #fa230f; box-shadow: 0px 0px 0px 0px #fff;}
+#forgotCustomerForm .al-right-content .al-right-btn-wrapper .cancel {font: 15px Roboto-Bold; padding: 6px 12px; text-transform: uppercase; height: 40px; padding: 6px 30px; border-radius: 27px; background: #fff; color: #fa230f; border: 1px solid #fff; box-shadow: 2px 2px 0px 2px #a5a5a5; -webkit-border-radius: 27px; -moz-border-radius: 27px; -ms-border-radius: 27px; border-radius: 27px;}
+#forgotCustomerForm .al-right-content .al-right-btn-wrapper .cancel:hover {border: 1px solid #a5a5a5; color: #fff; background: #a5a5a5; box-shadow: 0px 0px 0px 0px #fff;}
+
+/*=========RESET PASSWORD FORM===================*/
+
+#resetPassCustomerForm {max-width: 500px;width: auto; margin: 0 auto; margin-bottom: 20px}
+#resetPassCustomerForm .al-right-contener-head {font: 30px Roboto-Black;text-align: center}
+#resetPassCustomerForm .al-right-content .alrft-col {padding: 5px}
+#resetPassCustomerForm .al-right-content .alrft-col input {height: 50px; border-radius: 0;}
+#resetPassCustomerForm .al-right-content .al-right-btn-wrapper {margin: 0 auto; display: table}
+#resetPassCustomerForm .al-right-content .al-right-btn-wrapper .button {float: left; padding: 10px}
+#resetPassCustomerForm .al-right-content .al-right-btn-wrapper .btn-default {font: 15px Roboto-Bold; padding: 6px 12px; text-transform: uppercase; height: 40px; padding: 6px 30px; border-radius: 27px; background: #fff; color: #fa230f; border: 1px solid #fff; box-shadow: 2px 2px 0px 2px #fa230f; -webkit-border-radius: 27px; -moz-border-radius: 27px; -ms-border-radius: 27px; border-radius: 27px;}
+#resetPassCustomerForm .al-right-content .al-right-btn-wrapper .btn-default:hover{border: 1px solid #fa230f; color: #fff; background: #fa230f; box-shadow: 0px 0px 0px 0px #fff;}
+#resetPassCustomerForm .al-right-content .al-right-btn-wrapper .cancel {font: 15px Roboto-Bold; padding: 6px 12px; text-transform: uppercase; height: 40px; padding: 6px 30px; border-radius: 27px; background: #fff; color: #fa230f; border: 1px solid #fff; box-shadow: 2px 2px 0px 2px #a5a5a5; -webkit-border-radius: 27px; -moz-border-radius: 27px; -ms-border-radius: 27px; border-radius: 27px;}
+#resetPassCustomerForm.al-right-content .al-right-btn-wrapper .cancel:hover {border: 1px solid #a5a5a5; color: #fff; background: #a5a5a5; box-shadow: 0px 0px 0px 0px #fff;}
+
+/*=========MY ACCOUNT PAGE===================*/
+.yangon-container #myaccount .al-table-col .al-left-menu li a:focus {color: #555; cursor: default; background-color: #fff; border: 1px solid ddd;  border-bottom-color: transparent;}
+
+#myaccount .al-table-col .my-account-tab  .nav-tabs > li > a { background-color: #dc101d !important; color: #fff !important}
+#myaccount .al-table-col .my-account-tab  .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{   color: #555 !important; cursor: default; background-color: #fff !important; border: 1px solid #ddd; border-bottom-color: transparent;}
+#myaccount .al-right-content .al-right-filed-list li {margin-top: 20px;}
+#myaccount .al-right-content .al-right-filed-list li .col-md-6, #myaccount .al-right-content .al-right-filed-list li .col-md-12 {margin-top: 10px}
+#myaccount .al-right-content .al-right-filed-list li .col-md-6 .alrft-col, #myaccount .al-right-content .al-right-filed-list li .col-md-12 .alrft-col {margin-bottom: 5px}
+#myaccount .tab-content .al-right-contener .al-right-contener-head {padding: 10px;text-align: center;color: white; display: none;}
+/*#myaccount .al-right-content .al-right-filed-list li .alrft-col-no { position: absolute; line-height: 20px; padding: 15px; background-color: lightgray;}*/
+#myaccount .al-right-content .al-right-filed-list li input, #myaccount .al-right-content .al-right-filed-list li select {height: 50px; border-radius: 0;}
+#myaccount .tab-content .al-right-contener .al-right-content .al-right-btn-wrapper {margin: 0 auto; display: table;padding: 20px 0;}
+
+#myaccount .tab-content .al-right-contener .al-right-content .al-right-btn-wrapper .button {float: left; padding: 10px}
+#myaccount .tab-content .al-right-contener .al-right-content .al-right-btn-wrapper .btn-default {font: 15px Roboto-Bold; padding: 6px 12px; text-transform: uppercase; height: 40px; padding: 6px 30px; border-radius: 27px; background: #fff; color: #fa230f; border: 1px solid #fff; box-shadow: 2px 2px 0px 2px #fa230f; -webkit-border-radius: 27px; -moz-border-radius: 27px; -ms-border-radius: 27px; border-radius: 27px;}
+#myaccount .tab-content .al-right-contener .al-right-content .al-right-btn-wrapper .btn-default:hover{border: 1px solid #fa230f; color: #fff; background: #fa230f; box-shadow: 0px 0px 0px 0px #fff;}
+#myaccount .tab-content .al-right-contener .al-right-content .al-right-btn-wrapper .cancel {font: 15px Roboto-Bold; padding: 6px 12px; text-transform: uppercase; height: 40px; padding: 6px 30px; border-radius: 27px; background: #fff; color: #fa230f; border: 1px solid #fff; box-shadow: 2px 2px 0px 2px #a5a5a5; -webkit-border-radius: 27px; -moz-border-radius: 27px; -ms-border-radius: 27px; border-radius: 27px;}
+#myaccount .tab-content .al-right-contener .al-right-content .al-right-btn-wrapper .cancel:hover {border: 1px solid #a5a5a5; color: #fff; background: #a5a5a5; box-shadow: 0px 0px 0px 0px #fff;}
+
+
+/*=========ADD WEBSITE CHECKOUT PAGE===================*/
+.check-out {padding:0;}
+.check-out .contact-page-content-form .form-group.gp-contact-form-group:nth-child(6), .check-out .contact-page-content-form .form-group.gp-contact-form-group:last-child {max-width: 50%}
+.contact-us-wrap .contact-page-content .radio-inline {float: left; display: block; background-color: #00aaee; margin: 10px; width: 250px; padding: 15px;overflow: hidden; color: white;}
+.contact-us-wrap .contact-page-content .radio-inline:focus{ background-color: white !important; color: #00aaee !important  }
+.contact-us-wrap .contact-page-content .radio-inline input[type="radio"]{visibility: hidden}
+.contact-us-wrap .contact-page-content .radio-inline:hover {color: #555; cursor: default; background-color: #fff; border: 1px solid ddd;  border-bottom-color: transparent;}  
+
+.check-out .login-area {float: left; padding-top: 20px; padding-left: 0px;border-bottom: 1px solid #e4e4e4; padding-bottom: 20px;}
+.check-out .login-area input {height: 50px; border-radius: 0;}
+.check-out .login-area .btn-success {padding: 14px 50px; margin-top: 28px;width: 100%}
+
+
+/*=========CONTACT-US PAGE===================*/
+.contact-us-wrap .contact-page-content .contact-page-content-form .form-group.gp-contact-form-group {width: 50%;}
+.contact-us-wrap .contact-page-content .message, .contact-us-wrap .contact-page-content .subject{width: 100% !important;}
+
+#contact-us .contact-us-wrap {padding: 10px}
+#contact-us .contact-us-wrap p {padding: 50px 0px}
+
+
+/*=========ADVERTISEMENT PAGE===================*/
+#advertisement .al-table-col {float: left}
+#advertisement .al-table-col  .my-advertisement-tab .nav-tabs > li > a, .al-left-menu a {width: auto !important}
+#advertisement .al-table-col  .my-advertisement-tab .nav-tabs > li > a {width: 150px !important; padding: 10px !important; background-color: #dc101d !important; color:  #fff !important}
+#advertisement .al-table-col  .my-advertisement-tab .nav-tabs > li.active > a, #advertisement .my-account-tab .nav-tabs > li.active > a:hover, #advertisement .my-account-tab .nav-tabs > li.active > a:focus{   color: #555 !important; cursor: default; background-color: #fff !important; border: 1px solid #ddd; border-bottom-color: transparent;}
+#advertisement .al-table-col  .my-advertisement-tab .schedule, #advertisement .al-table-col  .my-advertisement-tab .schedule .img, #advertisement .al-table-col  .my-advertisement-tab .schedule .list,  #advertisement .al-table-col  .my-advertisement-tab .schedule .price   {padding-right: 5px; padding-left: 5px;}
+#advertisement .al-table-col  .my-advertisement-tab  .al-right-contener-head {padding-left: 15px}
+#advertisement .al-table-col  .my-advertisement-tab .schedule .media {border: 1px solid #000 !important; margin-bottom: 10px;padding: 0 5px 0 5px;}
+#advertisement .al-table-col  .my-advertisement-tab .schedule .media .eye-icon {float: right; font-weight: 600; color: #000;position: absolute;top: unset;
+right: 10px; margin-top: -25px }
+#advertisement .al-table-col  .my-advertisement-tab .schedule .media .eye-icon  i {color: #000;}
+#advertisement .al-table-col  .my-advertisement-tab .schedule .media .img, #advertisement .al-table-col  .my-advertisement-tab .schedule .media .list{padding-right: 5px; padding-left: 5px;}
+#advertisement .al-table-col  .my-advertisement-tab .schedule .media .img .img-size {width: 100%; height: 100px;overflow: hidden !important; line-height: 100px;vertical-align: middle; display: table-cell}
+#advertisement .al-table-col  .my-advertisement-tab .schedule .media .img .img-size img {max-width: 100% !important; width: auto; max-height: 100%; height: auto; margin:auto;position: absolute; top: 0; right: 0; bottom: 0; left: 0}
+#advertisement .al-table-col  .my-advertisement-tab .schedule .media .price {margin-top: 50px; top: 25px; text-align: right}
+#advertisement .al-table-col  .my-advertisement-tab .schedule .media .price span {color: #000; font-weight: 600;}
+#advertisement .al-table-col  .my-advertisement-tab .schedule .media .price button {color: white !important; padding: 3px 10px; margin-top: 3px; background-color: crimson; border: 0;}
+#advertisement .al-table-col  .my-advertisement-tab .schedule .media .price button:hover {background-color: #fff; color: #000 !important}
+
+#advertisement .al-table-col .my-advertisement-tab .listing-pagination {padding: 30px}
+#advertisement .al-table-col .my-advertisement-tab .listing-pagination ul li a span, #advertisement .al-table-col .my-advertisement-tab .listing-pagination li li a span{width: 30px; height: 30px;  color: #fff; border-radius: 100%; display: inline-block; line-height: 30px;}
+#advertisement .al-table-col .my-advertisement-tab  .listing-pagination ul li a:hover span, #advertisement .al-table-col .my-advertisement-tab  .listing-pagination li li a:hover span {background: #fa230f; color: #fff; }
+
+/*#advertisement .al-table-col  .my-advertisement-tab .listing-pagination ul li a:hover {background: #fa230f !important; color: #fff !important; border: 1px solid #fa230f !important; width: 35px; height: 35px; border-radius: 100%; display: inline-block; line-height: 35px;}*/
+
+/*=========SPACE REGISTRATION PAGE===================*/
+.space-reg .contact-page-content .input-detail .form-group.gp-contact-form-group {width: 50% !important}
+.space-reg .contact-page-content .input-detail .form-group.gp-contact-form-group#adrs {width: 100% !important}
+.space-reg .check-out .radio-inline {display: block; background-color: #af0f19; margin: 10px; width: 250px; padding: 15px;}
+.space-reg .check-out .radio-inline:hover, .space-reg .check-out .radio-inline:focus {cursor: pointer !important;background-color: white !important; color: #000 !important;}
+#specialPrices .modal-title {width: 100%;}
+
+.space-reg .check-out input[type="radio"] {display: none;}
+.space-reg .check-out .active {cursor: pointer !important;background-color: white !important; color: #000 !important;display: block; margin: 10px; width: 250px; padding: 15px; float: left}
+
+
+/*=========GRAPHS PAGE===================*/
+.graph svg{width: 100%; height: 300px}
+.graph .chart {padding-top: 40px; padding-bottom: 20px;}
+.graph .chart #barchart, .graph .chart #linechart {width: 100%; height: 300px}
+.graph .chart #linechart_date {position: absolute; top: -5px; right: 15px; height: 32px; padding: 6px; border-radius: 20px;}
+.graph .advrt table {height: 250px;margin-bottom: 20px}
+.graph .back-button {position: absolute; right: 30px; top: 25px}
+.graph .back-button .btn-back i {color: #000}
+.graph .back-button .btn-back {background-color: lightgray; color: #000; padding: 10px 30px;border-radius: 50px;}
+.graph .back-button .btn-back:hover {background-color: #fff; color: #000;}
+
+.graph .chart #barchart .alert, .graph .chart #linechart .alert {padding: 10px; border-radius: 20px;}
+.graph .chart #barchart .alert .close, .graph .chart #linechart .alert .close {margin-right: 20px;}
+.graph .banner-link {position: absolute; right: 120; top: 15px; color: white; border-radius: 20px; background-color: crimson; padding: 10px}
+.graph .banner-link:hover {background-color: white; color: #000}
+
+
+/*=========TRANSACTION LISTING PAGE===================*/
+table tbody tr th td .view-eye, #transaction .download {padding: 10px !important}
+
+
+/*=========ERROR PAGE===================*/
+
+.error-page {margin-bottom: 20px}
+.error-page .heading {position: relative; margin-top: -100px;margin-bottom: 20px}
+.error-page h1, .error-page h2 {font-weight: 600;margin-bottom: 20px;}
+.error-page .back-btn {background-color: crimson; color: #fff; padding: 10px; border-radius: 20px;}
+.error-page .back-btn:hover{background-color: white; color: #000; font-weight: 600}
+
+/*=========WEBSITE PAGE===================*/
+
+.img-bottom,  .img-bottom {position: absolute; bottom: 0px; left: 0; right: 0; background: #fa230f; color: #fff; border-radius: 0px 0px 12px 2px;  text-align: center; padding: 15px 0px;}
+
+.web-info-list ul li.web-info-list-col .web-info-list-main .web-info-list-main-col .img-bottom h3, .web-info-list li li.web-info-list-col .web-info-list-main .web-info-list-main-col .img-bottom h3 {margin: 0; text-transform: uppercase;}
+
+.listing .listing-col .no-content h1, #advertisement .al-table-col  .my-advertisement-tab .no-content {text-align: center; font-weight: 600; font-size: 28px}
+
+/*=========ABOUT US PAGE===================*/
+.abt-cms-wrap {padding: 50px}
+
+/*************PAGINATION BUTTONS***********************/
+.listing-pagination ul li .prev, .listing-pagination ul li .next, .listing-pagination ul li .last {background-color: #af0f19; color: white  !important; padding: 7px 15px; border-radius: 20px; font-size: 12px}
+
+.listing-pagination ul li .prev:hover, .listing-pagination ul li .next:hover, .listing-pagination ul li .last:hove {background-color: #fff; color: #000; font-weight: 600} 
+
+
+/*************SUCCESS & FAIL PAGE***********************/
+.success-page, .fail-page {padding: 140px 0 50px}
+.success-page img {width: 100px; height: 100px}
+.success-page h1, .success-page h2, .fail-page h1, .fail-page h2 {font-weight: 600;}
+.success-page .error-wrapper .order-info {margin: 60px auto 0 !important; width: 50%; padding-top: 50px}
+.success-page .error-wrapper .order-info tbody tr { border: 1px solid lightgray}
+.success-page .error-wrapper .order-info tbody tr:nth-child(odd) {background-color: lightgray !important}
+.success-page .error-wrapper .order-info tr td {padding: 10px; border-right: 1px solid darkgray}
+.success-page .error-wrapper .order-info tr td:nth-child(even) {color: red !important; font-weight: bold}
+
+
+.fail-page strong {color: red;font-size: 32px; font-weight: bold; padding: 10px}
+.fail-page .heading {margin-bottom: 40px}
+.fail-page .back-btn {font: 15px Roboto-Bold;
+    padding: 6px 12px;
+    text-transform: uppercase;
+    height: 40px;
+    padding: 6px 30px;
+    border-radius: 27px;
+    background: #fff;
+    color: #fa230f;
+    border: 1px solid #fff;
+    box-shadow: 2px 2px 0px 2px #fa230f;
+    -webkit-border-radius: 27px;
+    -moz-border-radius: 27px;
+    -ms-border-radius: 27px;
+    border-radius: 27px;}
+.fail-page .back-btn:hover{    border: 1px solid #fa230f;
+    color: #fff;
+    background: #fa230f;
+    box-shadow: 0px 0px 0px 0px #fff;}
+
+/*custom close*/
+.listing-main .listing-main-content .listing-main-content-hd .title span, .listing-main .listing-main-content .listing-main-content-text .rating-text .rating-text-col .list-info li {text-transform: capitalize;}

@@ -1,0 +1,26 @@
+Array
+(
+    [/website/user_booking_payment_notify] => 
+    [status] => Success
+    [referrer] => sandbox.ibillme.com
+    [date_sent] => 2017-07-18 5:31 am
+    [customid] => 36
+    [email] => riddhi22@gmail.com
+    [transaction_id] => upz1707031
+    [total] => 20.34
+    [transaction_fee] => 0.34
+    [amount] => 20
+)
+Array
+(
+    [/website/user_booking_payment_notify] => 
+    [status] => Success
+    [referrer] => sandbox.ibillme.com
+    [date_sent] => 2017-07-18 5:31 am
+    [customid] => 35
+    [email] => riddhi26@gmail.com
+    [transaction_id] => upz1707030
+    [total] => 16.27
+    [transaction_fee] => 0.27
+    [amount] => 16
+)

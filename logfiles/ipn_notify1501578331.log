@@ -1,0 +1,13 @@
+Array
+(
+    [/website/user_booking_payment_notify] => 
+    [status] => Success
+    [referrer] => sandbox.ibillme.com
+    [date_sent] => 2017-08-01 9:05 am
+    [customid] => 40
+    [email] => riddhi.sassyinfotech@gmail.com
+    [transaction_id] => upz1708002
+    [total] => 30.51
+    [transaction_fee] => 0.51
+    [amount] => 30
+)

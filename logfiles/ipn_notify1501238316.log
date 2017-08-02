@@ -1,0 +1,13 @@
+Array
+(
+    [/website/user_booking_payment_notify] => 
+    [status] => Success
+    [referrer] => sandbox.ibillme.com
+    [date_sent] => 2017-07-28 10:38 am
+    [customid] => 11
+    [email] => testacc2016@gmail.com
+    [transaction_id] => upz1707057
+    [total] => 10.17
+    [transaction_fee] => 0.17
+    [amount] => 10
+)

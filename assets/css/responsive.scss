@@ -1,0 +1,1150 @@
+@import '_reset';
+/**********************Media query****************/
+@media (min-width:1919px) {
+    
+   
+}
+
+/****************************************************************/
+/*		start Media min-1681px                                   */
+/****************************************************************/
+@media (min-width:1681px) {
+.cal1 {
+    max-width: 100%;
+}
+    .container {
+    width: 1440px;
+}
+}
+
+/****************************************************************/
+/*		End Media min-1681px                                    */
+/****************************************************************/
+
+
+@media (min-width:1368px) {
+    
+    
+}
+
+/*---------------------------------------------------------------------------min css ends-----------------------------------------------*/
+
+
+
+/****************************************************************/
+/*		start Media max-1920px                                   */
+/****************************************************************/
+@media (max-width:1919px) {
+	
+
+}
+
+
+
+
+
+/****************************************************************/
+/*		End Media max-1920px                                    */
+/****************************************************************/
+
+
+/****************************************************************/
+/*		start Media max-1600px                                    */
+/****************************************************************/
+
+@media (max-width:1600px) {
+	 
+}
+
+
+/****************************************************************/
+/*		End Media max-1600px                                    */
+/****************************************************************/
+
+@media (max-width:1439px) {
+  
+}
+
+@media (max-width:1367px) {
+    
+}
+@media (max-width:1350px) {
+ 
+}
+@media (max-width:1300px) {
+  .web-info-list ul li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-table .info-list-tb th,.web-info-list ul li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-table .info-list-tb td{
+      padding: 15px 10px;
+    }
+    
+}
+/****************************************************************/
+/*		start Media max-1200px                                    */
+/****************************************************************/
+
+@media (max-width:1199px) {
+/**header**/
+    .header .uz-nav-de .nav-uz-main .nav-uz-r .navbar-nav li a {
+    padding: 10px 22px;
+}
+    .header .uz-nav-de .nav-uz-main .nav-uz-r {
+    margin-right: -22px;
+    margin-left: -22px;
+    margin-top: 17px;
+}
+    .uz-banner-inner .uz-banner-col:nth-child(1) {
+    padding-right: 50px;
+}
+    .ads-sec .ads-sec-content .ads-sec-content-cir .ads-sec-content-cir-col .ads-sec-content-cir-col-img img {
+    width: 170px;
+}
+    /**ads section **/
+    .ads-sec .ads-sec-inner {
+    padding: 0px 0px;
+}
+    list-main .wcu-sec-list-main-col:nth-child(1) img {
+    height: 40px;
+}
+    .wcu-sec .wcu-sec-content .wcu-sec-list-main .wcu-sec-list-main-col:nth-child(1) {
+    width: 45px;
+}
+    .wcu-sec .wcu-sec-content .wcu-sec-list-main .wcu-sec-list-main-col:nth-child(1) img {
+    height: 40px;
+}
+    .enquiry-sec .enquiry-sec-inner {
+    padding: 0px 100px;
+}
+    .counter-sec .counter-sec-inner {
+    padding: 0px 0px;
+}
+    .footer .footer-up-inner {
+    padding: 0px 30px;
+}
+    
+    /**listing page **/
+    .listing-main .listing-main-content {
+    padding-left: 370px;
+}
+    .listing-main .listing-main-img {width: 330px;}
+    .listing-main {
+    padding: 20px 50px;
+}
+    .listing-main .listing-main-content .listing-main-content-text .rating-text .rating-text-col {
+    padding-top: 15px;
+}
+    .listing-main .listing-main-content .listing-main-content-hd .title h2 {
+    font: 30px Roboto-Black;
+    min-height: 35px;
+}
+    .listing-main .listing-main-content .listing-main-content-hd .title {
+    margin-bottom: 10px;
+}
+    .listing-main .listing-main-content .listing-main-content-text .rating-text .rating-text-col:nth-child(2) {
+    padding-left: 20px;
+}
+    
+  /**banner info page **/
+    .banner-info-sec1 .banner-info-sec1-inner .banner-info-sec1-col .banner-info-sec1-img {
+    width: 400px;
+}
+    .banner-info-sec1 .banner-info-sec1-inner .banner-info-sec1-col:nth-child(1) {
+    width: 410px;
+}
+}
+
+
+@media (max-width:1140px) {
+}
+/****************************************************************/
+/*		End Media max-1200px                                    */
+/****************************************************************/
+
+
+
+/****************************************************************/
+/*		start Media max-1024px                                    */
+/****************************************************************/
+
+@media (max-width:1024px) {
+ 
+}
+@media (max-width:1023px) {
+
+}
+/****************************************************************/
+/*		End Media max-1024px                                    */
+/****************************************************************/
+
+
+/****************************************************************/
+/*		start Media max-992px                                    */
+/****************************************************************/
+@media (max-width:992px) {
+    body,p,a,li,button,input,textarea,select{
+        font-size: 14px !important;
+    }
+    h1 {
+  font-size: 25px ;
+    color: #1f1f1f;
+  font-family: $rregular; }
+
+h2 {
+  font-size: 20px ;
+    color: #1f1f1f;
+  font-family: $rregular; }
+
+h3 {
+  font-size: 17px ;
+  font-family: $rregular; }
+
+h4 {
+  font-size: 15px ;
+  font-family: $rregular; }
+
+h5 {
+  font-size: 13px ;
+  font-family: $rregular; }
+/**header**/
+    .header .uz-nav-de .nav-uz-main .nav-uz-r .navbar-nav li a {
+    padding: 10px 12px;
+}
+    .header .uz-nav-de .nav-uz-main .nav-uz-r {
+    margin-right: -12px;
+    margin-left: -12px;
+    margin-top: 11px;
+}
+    .header .uz-nav-de .nav-uz-main .header-logo .navbar-brand {
+    display: block;
+    height: 40px;
+}
+    .header .uz-nav-de .nav-uz-main .header-logo .navbar-brand img {
+    height: 40px;
+}
+    .uz-wrap {
+    padding-top: 100px;
+}
+    /**banner **/
+    .uz-banner-inner .uz-banner-col:nth-child(2) {
+    width: 300px;
+}
+    .uz-banner-inner .uz-banner-col .uz-banner-img {
+    width: 300px;
+}
+    .uz-banner-inner .uz-banner-col .uz-banner-info span.info-h {
+    font: 30px Roboto-Black;
+}
+    .ads-sec .ads-sec-content .ads-sec-content-cir .ads-sec-content-cir-col {
+    padding: 0px 20px;
+}
+    .ads-sec .ads-sec-content .ads-sec-content-cir .ads-sec-content-cir-col .ads-sec-content-cir-col-img img {
+    width: 150px;
+}
+    .enquiry-sec .enquiry-sec-inner .para {
+    font-size: 18px;
+}
+    .enquiry-sec .enquiry-sec-inner {
+    padding: 0px 40px;
+}
+    .counter-sec .counter-sec-col .num-div .num {
+    font: 35px Roboto-Black;
+}
+    .counter-sec .counter-sec-col .text-div .text {
+    font-size: 20px;
+}
+    .footer .footer-up-inner {
+    padding: 0px 0px;
+}
+    .footer .footer-up-col:nth-child(1) {
+    padding-right: 40px;
+}
+    .footer .footer-up-col:nth-child(2) {
+    width: 25%;
+}
+    .footer .footer-up-col:nth-child(3) {
+    width: 41%;
+}
+    .com-sec {
+    padding: 60px 0px;
+}
+    
+    /**list page **/
+    .listing-main .listing-main-content .listing-main-content-hd .title h2 {
+    font: 25px Roboto-Black;
+}
+    .listing-main .listing-main-content .listing-main-content-hd .price .price-col:nth-child(1) span {
+    font-size: 16px;
+}
+    .listing-main .listing-main-content .listing-main-content-hd .price .price-col:nth-child(2) span {
+    font-size: 16px;
+}
+    .listing-main .listing-main-content .listing-main-content-hd .price .price-col:nth-child(1) {
+    width: 152px;
+}
+    .listing-main .listing-main-content {
+    padding-left: 300px;
+}
+    .listing-main .listing-main-img {
+    width: 260px;
+    height: 208px !important;
+    top: 25px;
+    margin: 0;
+}
+  .listing-main .listing-main-content .listing-main-content-text .rating-text .rating-text-col {
+    float: left;
+    width: 100% !important;
+    border-right: none !important;
+    padding: 15px 0 0 0 !important;
+    margin-bottom: 15px;
+}
+    .br-theme-css-stars .br-widget a {
+    font-size: 28px !important;
+}
+    .listing-main .listing-main-content .listing-main-content-text .rating-text .rating-text-col .check-btn {
+    margin-top: 15px;
+}
+    .uz-all-list .listing li.listing-col {
+    margin-bottom: 60px;
+}
+    .uz-all-list {
+    padding: 80px 0px 60px 0px;
+}
+    
+    /**website info page **/
+    .web-info-list ul li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-img, .web-info-list li li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-img {
+    width: 280px;
+}
+    .web-info-list ul li.web-info-list-col .web-info-list-main .web-info-list-main-col:nth-child(1), .web-info-list li li.web-info-list-col .web-info-list-main .web-info-list-main-col:nth-child(1) {
+    width: 280px;
+}
+    .web-info-list ul li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-table .site-btn, .web-info-list li li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-table .site-btn {font-size: 10px !important;}
+    .web-info-wrap .web-info-text p {padding: 0px 20px;}
+    .web-info-list ul li.web-info-list-col, .web-info-list li li.web-info-list-col {
+    padding: 0px 40px;
+    margin-bottom: 50px;
+}
+    
+      /**banner ifo page **/
+    .clnd-div .clnd-div-col {
+    width: 100%;
+         padding: 0 !important;
+}
+    .clnd-div .clnd-div-col:nth-child(2) .hrs-avail .hrs-avail-content .site-btn {
+    font-size: 10px !important;
+       
+}
+    .cal1 {
+    max-width: 100%;
+}
+    .boooking-clnd .nav-tabs li.active.first a::after {
+    right: -16px;
+}
+    .boooking-clnd .nav-tabs li.active.second a::after {
+    left: -16px;
+}
+    .banner-info-sec1 .banner-info-sec1-inner .banner-info-sec1-col .banner-info-sec1-info .banner-info-sec1-info-hd h2 {
+    font: 20px Roboto-Bold;margin: 0 0 10px 0;
+}
+    .banner-info-sec1 .banner-info-sec1-inner .banner-info-sec1-col .banner-info-sec1-info .banner-info-sec1-info-content .info-content-bottom .info-content-btn .btn {
+    padding: 10px 25px;
+}
+    .banner-info-sec1 .banner-info-sec1-inner .banner-info-sec1-col {
+    vertical-align: top;
+}
+    .banner-info-sec1 .banner-info-sec1-inner .banner-info-sec1-col .banner-info-sec1-img {
+    width: 280px;
+}
+    .banner-info-sec1 .banner-info-sec1-inner .banner-info-sec1-col:nth-child(1) {
+    width: 290px;
+}
+    .banner-info-sec1 .banner-info-sec1-inner .banner-info-sec1-col:nth-child(2) {
+    padding-left: 20px;
+}
+    
+     /**contact us **/
+    .contact-page-footer .contact-page-footer-inner {
+    padding: 65px 0px;
+}
+    .contact-page-footer .contact-page-footer-inner .contact-page-footer-inner-col .contact-page-footer-info .contact-page-footer-info-col .contact-page-footer-info-img {
+    width: 55px;
+        height: 55px;}
+    .contact-page-footer .contact-page-footer-inner .contact-page-footer-inner-col .contact-page-footer-info .contact-page-footer-info-col .contact-page-footer-info-img img{width: 25px;}
+    .contact-page-footer .contact-page-footer-inner .contact-page-footer-inner-col .contact-page-footer-info .contact-page-footer-info-col:nth-child(1) {
+    width: 55px;
+}
+    .contact-page-footer .contact-page-footer-inner .contact-page-footer-inner-col .contact-page-footer-info .contact-page-footer-info-col:nth-child(2) {
+    padding-left: 15px;
+}
+    .contact-page-footer a, .contact-page-footer p {
+    line-height: 15px;
+font-size: 13px;
+}
+}
+
+
+/****************************************************************/
+/*		End Media max-992px                                    */
+/****************************************************************/
+
+
+
+
+/****************************************************************/
+/*		start Media max-980px                                    */
+/****************************************************************/
+
+@media (max-width:940px) {
+    
+}
+
+@media (max-width:860px) {
+	
+
+}
+
+/****************************************************************/
+/*		End Media max-980px                                    */
+/****************************************************************/
+
+
+/****************************************************************/
+/*		start Media max-768px to max-979px                       */
+/****************************************************************/
+@media (min-width: 768px) and (max-width: 979px){
+
+}
+
+
+
+
+
+/****************************************************************/
+/*		End Media max-768px to max-979px                         */
+/****************************************************************/
+
+
+/****************************************************************/
+/*		start Media max-767px                                   */
+/****************************************************************/
+
+@media (max-width:767px) {
+    body, p, a,li, button, input, textarea, select {
+    font-size: 12px !important;
+}
+     h1 {
+  font-size: 22px ; }
+
+h2 {
+  font-size: 18px ;
+    color: #1f1f1f;
+  font-family: $rregular; }
+
+h3 {
+  font-size: 15px ;
+  font-family: $rregular; }
+
+h4 {
+  font-size: 13px ;
+  font-family: $rregular; }
+
+h5 {
+  font-size: 12px ;
+  font-family: $rregular; }
+ /**header**/
+    .nav-uz-main .navbar-header .navbar-toggle {
+    border-color: transparent;
+    background-color: transparent;
+}
+    .nav-uz-main .navbar-header .navbar-toggle .icon-bar {
+    background-color: #fa230f;
+}
+     .nav-uz-main .navbar-header  .navbar-toggle:hover,  .nav-uz-main .navbar-header  .navbar-toggle:focus {
+    background-color: transparent;
+}
+    .header .container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+    .nav-uz-main .navbar-header .navbar-toggle {
+    margin-top: 0px;
+}
+    .header .uz-nav-de .nav-uz-main .header-logo .navbar-brand {
+    margin-left: 15px;
+}
+    .header .uz-nav-de .nav-uz-main .nav-uz-r .navbar-nav li  {
+   text-align: center;
+}
+    .uz-banner-inner .uz-banner-col .uz-banner-info span.info-h {
+    font: 22px Roboto-Black;
+}
+    .site-btn {
+    font: 13px Roboto-Bold;
+    height: 40px;
+    width: 160px;
+}
+    .uz-banner-inner .uz-banner-col .uz-banner-img {
+    width: 230px;
+    padding-top: 30px;
+}
+    .uz-banner-inner .uz-banner-col:nth-child(2) {
+    width: 230px;
+}
+    .com-sec {
+    padding: 40px 0px;
+}
+    .wcu-sec .wcu-sec-content ul .wcu-sec-list, .wcu-sec .wcu-sec-content li .wcu-sec-list {
+    width: 50%;
+}
+    .enquiry-sec .enquiry-sec-inner .para {
+    font-size: 16px;
+}
+    .counter-sec .counter-sec-col .num-div .num {
+    font: 30px Roboto-Black;
+}
+    .counter-sec .counter-sec-col .text-div .text {
+    font-size: 18px;
+}
+    .counter-sec {
+    padding: 60px 0px 55px 0px;
+}
+    .footer .footer-up-col .social-list li a img{
+        height: 20px;
+    }
+    .footer a, .footer p, .footer li, .footer span {
+    font-size: 11px;
+}
+    .footer {
+    padding: 60px 0px 65px 0px;
+}
+    .footer .footer-up-col .footer-logo img{
+        height: 40px;
+    }
+    
+    /**list page **/
+    .listing-main .listing-main-img {
+    width: 100%;
+    height: auto !important;
+    top: 0;
+    margin: 0;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    float: left;
+    left: 0;
+    right: 0;
+    display: block;
+    margin-bottom: 15px;
+        
+}
+    .listing-main .listing-main-img img {
+    height: auto;
+    position: relative;
+    top: auto;
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+    left: auto;
+}
+    .listing-main .listing-main-content {
+    padding-left: 0;
+    margin-bottom: 15px;
+}
+    .listing-main .listing-main-content .listing-main-content-hd .title h2 {
+    font: 20px Roboto-Black;
+}
+    .listing-main .listing-main-content .listing-main-content-hd .title span {
+    min-height: 20px;
+}
+    .listing-main .listing-main-content .listing-main-content-hd .price .price-col:nth-child(1) span {
+    font-size: 14px;
+}
+    .listing-main .listing-main-content .listing-main-content-hd .price .price-col:nth-child(2) span {
+    font-size: 14px;
+}
+    .listing-main .listing-main-content .listing-main-content-hd .price .price-col ul li::after, .listing-main .listing-main-content .listing-main-content-hd .price .price-col li li::after {
+    font-size: 16px;
+}
+    .listing-main .listing-main-content .listing-main-content-text .rating-text .rating-text-col .list-info li::after {top: 5px;}
+    .listing-main .listing-main-content .listing-main-content-text .rating-text .rating-text-col .list-info li {
+    padding: 5px 0px 5px 22px;
+}
+    .listing-main .listing-main-content .listing-main-content-text .rating-text .rating-text-col .list-info li:first-child {
+    padding-top: 5px;
+}
+    .sort-form-main .sort-form-col {
+    padding: 0px 20px;
+}
+    .sort-form-row .sort-form-row-col:nth-child(1) img {
+    width: 17px;
+}
+    .sort-form-row .sort-form-row-col:nth-child(1) {
+    width: 22px;
+}
+    .sort-form-row .sort-form-row-col label {
+    font: 15px Roboto-Regular;
+}
+    .sort-form-row .sort-form-row-col:nth-child(2) {
+    width: 70px;
+}
+    .sort-form-row .search-form-row-col:nth-child(1) {
+    width: 22px;
+}
+    .sort-form-row .search-form-row-col:nth-child(1) img {
+    width: 17px;
+}
+    .listing-main .listing-main-content .listing-main-content-text .rating-text .rating-text-col .check-btn .site-btn {font-size: 12px !important;}
+    .listing-pagination ul li a span, .listing-pagination li li a span {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+}
+    .listing-pagination ul li a.prev .fa, .listing-pagination li li a.prev .fa {
+    width: 20px;
+    height: 20px;
+}
+    .listing-pagination ul li a.prev .fa::before, .listing-pagination li li a.prev .fa::before {
+    line-height: 19px;
+    font-size: 14px;vertical-align: top;
+}
+    .listing-pagination ul li a.next .fa, .listing-pagination li li a.next .fa {
+    width: 20px;
+    height: 20px;
+}
+    .listing-pagination ul li a.next .fa::before, .listing-pagination li li a.next .fa::before {
+    line-height: 19px;
+    font-size: 14px;vertical-align: top;
+}
+    .Website-add-sec {padding: 50px 30px 44px 30px;}
+    .Website-add-sec .adtext {
+    font: 30px Roboto-Black;
+}
+    
+    /**website info page **/
+    /* .info-list-tb-content, .info-list-tb-head-col, .info-list-tb-content-col  {
+    display: block;
+}
+    .info-list-tb-head{
+        position: absolute;
+			top: -9999px;
+			left: -9999px;
+    }
+    .info-list-tb-content-col {
+        border: none;
+			border-bottom: 1px solid #eee; 
+			position: relative;
+			padding-left: 50% !important; 
+    }
+    .info-list-tb-content-col:before{
+			position: absolute;
+			top: 15px;
+			left: 6px;
+			width: 45%; 
+			padding-right: 10px !important; 
+			white-space: nowrap;
+    }
+    .info-list-tb-content-col{
+        width: auto !important;
+    }
+   .info-list-tb-head-col:nth-child(1), .info-list-tb-content-col:nth-child(1) {
+    width: 142px;
+    margin-top: 0px !important;
+}
+    .info-list-tb-content-col:nth-child(1):before{content: "Ad Space Location";}
+    .info-list-tb-content-col:nth-child(2):before{content: "Size Of Banner";}
+    .info-list-tb-content-col:nth-child(3):before{content: "Hourly Rates";}
+    .info-list-tb-content-col:nth-child(4):before{content: "Daily Rates";}
+    .info-list-tb-content-col:nth-child(5):before{content: "Action ";}
+    .info-list-tb-content-content{position: relative;}
+    
+     .web-info-list li li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-table .info-list-tb td:first-child {
+    text-align: center;
+}*/
+    
+    .web-info-list ul li.web-info-list-col .web-info-list-main .web-info-list-main-col, .web-info-list li li.web-info-list-col .web-info-list-main .web-info-list-main-col {
+    float: left;
+    width: 100% !important;
+    padding: 0 !important;
+        margin-bottom: 20px;
+}
+    .web-info-list ul li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-img, .web-info-list li li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-img, .web-info-list li li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-img {
+    width: 100%;
+}
+    
+    /**banner info page **/
+    .day-selected .day-selected-inner .hrs-avail-tb {
+    width: 100%;
+}
+    .boooking-clnd .nav-tabs li.active.second a::after {
+    border-top: 38px solid transparent;
+}
+    .boooking-clnd .nav-tabs li.active.first a::after {
+        border-top: 38px solid transparent;
+}
+    .clnd-div .clnd-div-col:nth-child(2) .hrs-avail .hrs-avail-content .hrs-avail-tb td {
+    padding: 5px;
+}
+    .cal1 .clndr .clndr-controls .month {
+    font: 20px Roboto-Bold;
+    
+}
+    .clnd-div .clnd-div-col:nth-child(2) .hrs-avail .hrs-avail-hd h2 {
+    
+    font: 20px Roboto-Bold;
+}
+    .black-strip-text p span {
+    font-size: 20px;
+}
+    .banner-info-sec1 .banner-info-sec1-inner .banner-info-sec1-col {
+    float: left;
+    width: 100% !important;
+    padding: 0 !important;
+    margin-bottom: 20px;
+}
+    .banner-info-sec1 .banner-info-sec1-inner .banner-info-sec1-col .banner-info-sec1-img {
+    width: 100%;
+}
+    .banner-info-sec1 .banner-info-sec1-inner .banner-info-sec1-col .banner-info-sec1-info .banner-info-sec1-info-hd h2 {
+    font: 18px Roboto-Bold;
+}
+    
+    /*contatc us **/
+    .contact-page-content .contact-page-content-form .gp-contact-form-group .form-control {
+    height: 35px;
+}
+    .contact-page-content .contact-page-content-form .gp-contact-form-group:nth-child(1) {
+    width: 100%;
+}
+    .contact-page-content .contact-page-content-form .gp-contact-form-group:nth-child(2) {
+    width: 100%;
+}
+    .contact-us-wrap {
+    padding: 50px 0px 0px 0px;
+}
+}
+
+
+
+
+/****************************************************************/
+/*		End Media max-767px                                     */
+/****************************************************************/
+
+
+/****************************************************************/
+/*		start Media max-695px                                   */
+/****************************************************************/
+@media (max-width:695px) {
+.uz-banner-inner .uz-banner-col:nth-child(2) {
+    width: 200px;
+}
+    .uz-banner-inner .uz-banner-col .uz-banner-img {
+    width: 200px;
+}
+    .ads-sec .ads-sec-content .ads-sec-content-cir .ads-sec-content-cir-col {
+    padding: 0px 10px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+ .counter-sec .counter-sec-col .num-div .num {
+    font: 25px Roboto-Black;
+}
+    .counter-sec .counter-sec-col .text-div .text {
+    font-size: 15px;
+}
+    .enquiry-sec .enquiry-sec-inner .para {
+    font-size: 14px;
+}
+    .enquiry-sec .enquiry-sec-inner {
+    padding: 0px 20px;
+}
+    .footer .footer-up-col .social-list li a img {
+    height: 15px;
+}
+    .footer .footer-up-col:nth-child(1) {
+    padding-right: 20px;
+}
+    .footer .footer-up-col:nth-child(1) {
+    padding-right: 20px;
+}
+    .footer .footer-up-col:nth-child(2) {
+    padding-left: 10px;
+}
+    
+      /**contact us **/
+    .contact-page-footer .contact-page-footer-inner .contact-page-footer-inner-col{width: 100%;
+margin: 0px 0px 15px 0px;}
+    .contact-page-footer .contact-page-footer-inner .contact-page-footer-inner-col .contact-page-footer-info{margin: auto;width: 200px;}
+    .contact-page-footer .contact-page-footer-inner {
+    padding: 30px 0px;
+}
+  
+}
+
+
+
+
+
+/****************************************************************/
+/*		End Media max-695px                                     */
+/****************************************************************/
+
+
+/****************************************************************/
+/*		start Media max-592px                                   */
+/****************************************************************/
+
+@media (max-width:639px) {
+   /**contact us **/
+    .contact-page-content {
+    padding: 0px 10px;
+}
+}
+@media (max-width:600px) {
+
+}
+@media (max-width:589px) {
+.uz-banner-inner .uz-banner-col .uz-banner-info p {
+    font-size: 11px;
+}
+.uz-banner-inner .uz-banner-col .uz-banner-info span.info-h {
+    font: 18px Roboto-Black;
+}
+    .uz-banner-inner .uz-banner-col:nth-child(1) {
+    padding-right: 20px;
+}
+    .uz-banner-inner .uz-banner-col:nth-child(2) {
+    width: 150px;
+}
+    .uz-banner-inner .uz-banner-col .uz-banner-img {
+    width: 150px;
+}
+    .site-btn {
+    font: 12px Roboto-Bold;
+    height: 35px;
+    width: 120px;
+    padding: 6px 8px;
+    box-shadow: 1px 1px 0px 1px #fa230f;
+}
+    .enquiry-sec .enquiry-sec-inner .para {line-height: 22px;}
+    .counter-sec .counter-sec-col {padding: 0px 5px;}
+    
+    /**list page **/
+    .sort-form-main .sort-form-col {
+    padding: 0px 5px;
+}
+    .sort-form-row .sort-form-row-col:nth-child(1) img {
+    width: 15px;
+}
+    .sort-form-row .search-form-row-col:nth-child(1) img {
+    width: 15px;
+}
+    .sort-form-row .sort-form-row-col:nth-child(1) {
+    width: 17px;
+}
+    .sort-form-row .search-form-row-col:nth-child(1) {
+    width: 17px;
+}
+  .sort-form-row .sort-form-row-col:nth-child(2) {
+    width: 55px;
+}  
+    .sort-form-row .sort-form-row-col .form-control {
+    padding: 5px 25px 5px 5px;
+}
+    .select-arrow::after {
+    right: 6px;
+        font-size: 18px;}
+}
+/****************************************************************/
+/*		End Media  max-592px                                     */
+/****************************************************************/
+
+
+/****************************************************************/
+/*		start Media max-534px                                   */
+/****************************************************************/
+
+@media (max-width:534px) {
+
+}
+@media (max-width:523px) {
+
+}
+
+
+/****************************************************************/
+/*		End Media  max-534px                                     */
+/****************************************************************/
+
+/****************************************************************/
+/*		start Media max-480px                                   */
+/****************************************************************/
+@media (max-width:480px) {
+     h1 {
+  font-size: 18px ; }
+
+h2 {
+  font-size: 16px ;}
+
+h3 {
+  font-size: 14px ; }
+
+h4 {
+  font-size: 12px ;}
+
+h5 {
+  font-size: 11px ; }
+    .header .uz-nav-de .nav-uz-u .nav-uz-u-inner ul li, .header .uz-nav-de .nav-uz-u .nav-uz-u-inner li li {
+    padding: 0px 8px;
+}
+.uz-banner-inner .uz-banner-col .uz-banner-info span.info-h {
+    font: 16px Roboto-Black;
+}
+    .uz-banner-inner .uz-banner-col:nth-child(2) {
+    width: 120px;
+}
+    .uz-banner-inner .uz-banner-col .uz-banner-img {
+    width: 120px;
+}
+    .site-btn {
+    font: 11px Roboto-Bold;
+    height: 30px;
+    width: 115px;
+    padding: 3px 5px;
+}
+   
+    .wcu-sec .wcu-sec-content ul .wcu-sec-list, .wcu-sec .wcu-sec-content li .wcu-sec-list, .wcu-sec .wcu-sec-content li .wcu-sec-list {
+    width: 100%;
+}
+    .enquiry-sec .enquiry-sec-inner .para {
+    line-height: 20px;
+    font-size: 12px;
+}
+    .counter-sec .counter-sec-col .num-div .num {
+    font: 20px Roboto-Black;
+}
+    .counter-sec .counter-sec-col .text-div .text {
+    font-size: 12px;
+}
+    .footer .footer-up-col {
+    float: left;
+    width: 100% !important;
+    padding: 0px 10px !important;
+    margin-bottom: 20px;
+}
+    .footer .footer-up-col:nth-child(2) {
+    width: 30% !important;
+}
+    .footer .footer-up-col:nth-child(3) {
+    width: 70% !important;
+}
+    .enquiry-sec .enquiry-sec-inner .enquiry-sec-btn .site-btn {
+    height: 35px;
+}
+    
+    /**list page **/
+    .listing-main {
+    padding: 20px 25px;
+}
+    .listing-main .listing-main-content .listing-main-content-text .rating-text .rating-text-col .check-btn .site-btn {
+    font-size: 12px !important;
+    width: 150px;
+    height: 35px;
+}
+    .listing-pagination ul li, .listing-pagination li li {
+    display: inline-block;
+    padding: 0px 5px;
+}
+    .Website-add-sec {
+    padding: 50px 15px 44px 15px;
+}
+    .br-theme-css-stars .br-widget a {
+    font-size: 22px !important;
+    height: 30px;
+    width: 20px;
+}
+    .br-theme-css-stars .br-widget {
+    height: 30px;
+}
+    
+    /**website info page **/
+    .info-list-tb-content, .info-list-tb-head-col, .info-list-tb-content-col  {
+    display: block;
+}
+    .info-list-tb-head{
+        position: absolute;
+			top: -9999px;
+			left: -9999px;
+    }
+    .info-list-tb-content-col {
+        border: none;
+			border-bottom: 1px solid #eee; 
+			position: relative;
+			padding-left: 50% !important; 
+    }
+    .info-list-tb-content-col:before{
+			position: absolute;
+			top: 15px;
+			left: 6px;
+			width: 45%; 
+			padding-right: 10px !important; 
+			white-space: nowrap;
+    }
+    .info-list-tb-content-col{
+        width: auto !important;
+    }
+   .info-list-tb-head-col:nth-child(1), .info-list-tb-content-col:nth-child(1) {
+    width: 142px;
+    margin-top: 0px !important;
+}
+    .info-list-tb-content-col:nth-child(1):before{content: "Ad Space Location";}
+    .info-list-tb-content-col:nth-child(2):before{content: "Size Of Banner";}
+    .info-list-tb-content-col:nth-child(3):before{content: "Hourly Rates";}
+    .info-list-tb-content-col:nth-child(4):before{content: "Daily Rates";}
+    .info-list-tb-content-col:nth-child(5):before{content: "Action ";}
+    .info-list-tb-content-content{position: relative;}
+    
+   .web-info-list ul li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-table .info-list-tb th:first-child, .web-info-list li li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-table .info-list-tb th:first-child, .web-info-list ul li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-table .info-list-tb td:first-child, .web-info-list li li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-table .info-list-tb td:first-child {
+    text-align: center;
+}
+    .web-info-list ul li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-table .info-list-tb th:last-child, .web-info-list li li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-table .info-list-tb th:last-child, .web-info-list ul li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-table .info-list-tb td:last-child, .web-info-list li li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-table .info-list-tb td:last-child {
+    background: #ddd;
+}
+    .web-info-list ul li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-table .info-list-tb th, .web-info-list li li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-table .info-list-tb th, .web-info-list ul li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-table .info-list-tb td, .web-info-list li li.web-info-list-col .web-info-list-main .web-info-list-main-col .web-info-list-main-table .info-list-tb td {
+    border-right: none;
+        border-top: none;
+}
+    .web-info-list ul li.web-info-list-col, .web-info-list li li.web-info-list-col, .web-info-list li li.web-info-list-col {
+    padding: 0px 20px;
+}
+    
+    /**banner info page **/
+    
+    .clnd-div .clnd-div-col:nth-child(2) .hrs-avail .hrs-avail-content .site-btn {
+    line-height: 20px;
+}
+ .cal1 .clndr .clndr-table tr .day.event .day-contents, .cal1 .clndr .clndr-table tr .day.my-event .day-contents {
+    width: 27px;
+    height: 27px;
+    line-height: 14px;
+    padding: 0px;
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 11px;
+} 
+     .cal1 .clndr .clndr-controls .month {
+    font: 18px Roboto-Bold;
+    
+}
+    .clnd-div .clnd-div-col:nth-child(2) .hrs-avail .hrs-avail-hd h2 {
+    
+    font: 18px Roboto-Bold;
+}
+    .black-strip-text p span {
+    font-size: 18px;
+} 
+}
+
+
+
+
+/****************************************************************/
+/*		End Media  max-480px                                     */
+/****************************************************************/
+@media (max-width:420px) {
+
+}
+
+@media (max-width:412px) {
+
+}
+
+@media (max-width:410px) {
+.uz-banner-inner .uz-banner-col .uz-banner-info p {
+    margin: 0 0 5px;line-height: normal;
+}
+    .uz-banner-inner .uz-banner-col .uz-banner-info span.info-h {
+    font: 14px Roboto-Black;
+    margin-bottom: 15px;
+        
+}
+    /**list page **/
+    .sort-form-row .sort-form-row-col label {
+    font: 13px Roboto-Regular;
+}
+    .sort-form-main .sort-form-col {
+    width: 100%;
+    padding: 0px ;margin-bottom: 12px;
+}
+    .listing-main .listing-main-content .listing-main-content-hd .price .price-col:nth-child(1) span {
+    font-size: 13px;
+}
+    .listing-main .listing-main-content .listing-main-content-hd .price .price-col:nth-child(1) {
+    width: 122px;
+}
+    .listing-main .listing-main-content .listing-main-content-hd .price .price-col:nth-child(2) span {
+    font-size: 13px;
+}
+    .Website-add-sec .adtext {
+    font: 25px Roboto-Black;
+}
+    
+    /**banner info page **/
+    .clnd-div .clnd-div-col:nth-child(2) .hrs-avail .hrs-avail-content .site-btn {
+    line-height: 20px;
+    white-space: normal;
+    height: auto;
+    border-radius: 20px;
+}
+}
+
+@media (max-width: 380px) {
+
+}
+/****************************************************************/
+/*		start Media max-360px                                   */
+/****************************************************************/
+@media (max-width: 360px) {
+
+}
+@media (max-width: 359px) {
+.counter-sec .counter-sec-col .num-div .num {
+    font: 16px Roboto-Black;
+}
+    .counter-sec .counter-sec-col .text-div .text {
+    font-size: 10px;
+}
+    .footer .footer-up-col:nth-child(2) {
+    width: 100% !important;
+}
+    .footer .footer-up-col:nth-child(3) {
+    width: 100% !important;
+}
+}
+@media (max-width: 340px) {
+
+}
+/****************************************************************/
+/*		End Media  max-360px                                     */
+/****************************************************************/
+
+
+/****************************************************************/
+/*		start Media max-320px                                   */
+/****************************************************************/
+
+@media (max-width: 330px) {
+
+}
+
+@media (max-width: 320px) {
+
+}
+
+
+
+/****************************************************************/
+/*		End Media  max-320px                                     */
+/****************************************************************/
+
+
+
+
+

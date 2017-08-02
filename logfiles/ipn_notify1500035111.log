@@ -1,0 +1,13 @@
+Array
+(
+    [/website/user_booking_payment_notify] => 
+    [status] => Success
+    [referrer] => sandbox.ibillme.com
+    [date_sent] => 2017-07-14 12:25 pm
+    [customid] => 5
+    [email] => aklesh@gmail.com
+    [transaction_id] => upz1707012
+    [total] => 21.97
+    [transaction_fee] => 0.37
+    [amount] => 21.6
+)

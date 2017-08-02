@@ -1,0 +1,49 @@
+[18-Jan-2017 03:39:28 America/Denver] PHP Fatal error:  Call to undefined function sendMail() in /home3/sidemoin/public_html/sbcms/application/libraries/Aauth.php on line 381
+[18-Jan-2017 21:33:32 America/Denver] PHP Fatal error:  Call to a member function userdata() on null in /home3/sidemoin/public_html/sbcms/application/hooks/logincheck.php on line 21
+[01-Mar-2017 06:06:39 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/sipldemo/public_html/shivshakti/admin/application/views/dashboard.php on line 1
+[02-Mar-2017 11:56:26 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/sipldemo/public_html/shivshakti/admin/application/views/dashboard.php on line 1
+[02-Mar-2017 11:56:44 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/sipldemo/public_html/shivshakti/admin/application/views/dashboard.php on line 1
+[02-Mar-2017 11:58:18 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/sipldemo/public_html/shivshakti/admin/application/views/dashboard.php on line 1
+[02-Mar-2017 11:58:21 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/sipldemo/public_html/shivshakti/admin/application/views/dashboard.php on line 1
+[02-Mar-2017 11:58:22 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/sipldemo/public_html/shivshakti/admin/application/views/dashboard.php on line 1
+[02-Mar-2017 11:58:23 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/sipldemo/public_html/shivshakti/admin/application/views/dashboard.php on line 1
+[02-Mar-2017 11:58:24 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/sipldemo/public_html/shivshakti/admin/application/views/dashboard.php on line 1
+[02-Mar-2017 11:58:25 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/sipldemo/public_html/shivshakti/admin/application/views/dashboard.php on line 1
+[02-Mar-2017 11:58:25 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/sipldemo/public_html/shivshakti/admin/application/views/dashboard.php on line 1
+[02-Mar-2017 11:58:27 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/sipldemo/public_html/shivshakti/admin/application/views/dashboard.php on line 1
+[09-Mar-2017 12:11:20 UTC] PHP Fatal error:  Call to undefined method Unit_model::search_unit_data() in /home/sipldemo/public_html/shivshakti/admin/application/controllers/Unit.php on line 384
+[11-Mar-2017 08:10:01 UTC] PHP Fatal error:  Call to undefined method Property::doc_upload_pdf() in /home/sipldemo/public_html/shivshakti/admin/application/controllers/Property.php on line 53
+[18-Mar-2017 13:14:14 Asia/Kolkata] PHP Fatal error:  Call to a member function count_building() on a non-object in /home/sipldemo/public_html/shivshakti/admin/application/controllers/Building.php on line 124
+[18-Mar-2017 13:14:17 Asia/Kolkata] PHP Fatal error:  Call to a member function count_building() on a non-object in /home/sipldemo/public_html/shivshakti/admin/application/controllers/Building.php on line 124
+[18-Mar-2017 13:14:47 Asia/Kolkata] PHP Fatal error:  Call to a member function count_building() on a non-object in /home/sipldemo/public_html/shivshakti/admin/application/controllers/Building.php on line 124
+[18-Mar-2017 13:15:09 Asia/Kolkata] PHP Fatal error:  Call to a member function count_building() on a non-object in /home/sipldemo/public_html/shivshakti/admin/application/controllers/Building.php on line 124
+[20-Mar-2017 07:29:22 Asia/Kolkata] PHP Fatal error:  Call to undefined method Property_model::building_num_of_floor() in /home/sipldemo/public_html/shivshakti/admin/application/controllers/Floor.php on line 115
+[20-Mar-2017 07:31:14 Asia/Kolkata] PHP Fatal error:  Call to undefined method Property_model::building_num_of_floor() in /home/sipldemo/public_html/shivshakti/admin/application/controllers/Floor.php on line 115
+[24-Mar-2017 15:16:09 Asia/Kolkata] PHP Fatal error:  Call to undefined method Property_model::get_building_detail_with_floor() in /home/sipldemo/public_html/shivshakti/admin/application/controllers/Floor.php on line 27
+[25-Mar-2017 11:47:35 Asia/Kolkata] PHP Fatal error:  Call to undefined method Property_model::unit_image_delete_img_name() in /home/sipldemo/public_html/shivshakti/admin/application/controllers/Unit.php on line 589
+[25-Mar-2017 11:47:42 Asia/Kolkata] PHP Fatal error:  Call to undefined method Property_model::unit_image_delete_img_name() in /home/sipldemo/public_html/shivshakti/admin/application/controllers/Unit.php on line 589
+[25-Mar-2017 11:49:47 Asia/Kolkata] PHP Fatal error:  Call to undefined method Property_model::unit_image_delete_img_name() in /home/sipldemo/public_html/shivshakti/admin/application/controllers/Unit.php on line 589
+[29-Mar-2017 13:27:11 Asia/Kolkata] PHP Fatal error:  Call to undefined method Floorplan_model::property_detail() in /home/sipldemo/public_html/shivshakti/admin/application/controllers/Floorplan.php on line 28
+[30-Mar-2017 10:58:15 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/shivshaktiprp/public_html/admin/application/helpers/common_helper.php on line 73
+[30-Mar-2017 11:09:57 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/shivshaktiprp/public_html/admin/application/helpers/common_helper.php on line 73
+[30-Mar-2017 14:13:04 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/shivshaktiprp/public_html/admin/application/helpers/common_helper.php on line 73
+[05-Apr-2017 15:04:06 Asia/Kolkata] PHP Fatal error:  Call to undefined function parseInt() in /home/shivshaktiprp/public_html/admin/application/controllers/Sell.php on line 696
+[21-Apr-2017 16:58:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function NOW() in /home/shivshaktiprp/public_html/admin/application/controllers/Dashboard.php on line 28
+[21-Apr-2017 16:59:22 Asia/Kolkata] PHP Fatal error:  Call to undefined function NOW() in /home/shivshaktiprp/public_html/admin/application/controllers/Dashboard.php on line 28
+[21-Apr-2017 16:59:26 Asia/Kolkata] PHP Fatal error:  Call to undefined function NOW() in /home/shivshaktiprp/public_html/admin/application/controllers/Dashboard.php on line 28
+[26-Apr-2017 12:20:10 Asia/Kolkata] PHP Fatal error:  Call to undefined function replace_str() in /home/shivshaktiprp/public_html/admin/application/helpers/common_helper.php on line 255
+[30-Jun-2017 12:28:31 Asia/Kolkata] PHP Fatal error:  Call to a member function purchasedToday() on null in /home4/demosh50/public_html/upzurge/secure-admin/application/controllers/Dashboard.php on line 16
+[30-Jun-2017 12:32:29 Asia/Kolkata] PHP Fatal error:  Call to a member function purchasedToday() on null in /home4/demosh50/public_html/upzurge/secure-admin/application/controllers/Dashboard.php on line 16
+[30-Jun-2017 12:33:04 Asia/Kolkata] PHP Fatal error:  Call to a member function purchasedToday() on null in /home4/demosh50/public_html/upzurge/secure-admin/application/controllers/Dashboard.php on line 16
+[04-Jul-2017 13:31:59 Asia/Kolkata] PHP Fatal error:  Call to a member function deleteSpaceByWebsite() on null in /home4/demosh50/public_html/upzurge/secure-admin/application/controllers/Website.php on line 37
+[08-Jul-2017 12:10:12 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/demosh50/public_html/upzurge/secure-admin/application/controllers/Space.php on line 71
+[08-Jul-2017 03:48:35 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[26-Jul-2017 12:21:05 Asia/Kolkata] PHP Fatal error:  Call to a member function getState() on null in /home4/demosh50/public_html/upzurge/secure-admin/application/views/customer/addedit.php on line 70
+[26-Jul-2017 12:21:14 Asia/Kolkata] PHP Fatal error:  Call to a member function getState() on null in /home4/demosh50/public_html/upzurge/secure-admin/application/views/customer/addedit.php on line 70
+[26-Jul-2017 12:22:46 Asia/Kolkata] PHP Fatal error:  Call to a member function getState() on null in /home4/demosh50/public_html/upzurge/secure-admin/application/views/customer/addedit.php on line 70
+[26-Jul-2017 12:25:17 Asia/Kolkata] PHP Fatal error:  Call to a member function getState() on null in /home4/demosh50/public_html/upzurge/secure-admin/application/controllers/Customer.php on line 80
+[26-Jul-2017 14:23:17 Asia/Kolkata] PHP Fatal error:  Call to undefined method Space::mysqlDate() in /home4/demosh50/public_html/upzurge/secure-admin/application/controllers/Space.php on line 319
+[26-Jul-2017 18:28:39 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::get() in /home4/demosh50/public_html/upzurge/secure-admin/application/models/Dashboard_model.php on line 19
+[26-Jul-2017 18:28:41 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::get() in /home4/demosh50/public_html/upzurge/secure-admin/application/models/Dashboard_model.php on line 19
+[26-Jul-2017 19:03:03 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home4/demosh50/public_html/upzurge/secure-admin/application/models/Dashboard_model.php on line 85
+[26-Jul-2017 19:03:05 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home4/demosh50/public_html/upzurge/secure-admin/application/models/Dashboard_model.php on line 85

@@ -1,0 +1,13 @@
+Array
+(
+    [/website/user_booking_payment_notify] => 
+    [status] => Success
+    [referrer] => sandbox.ibillme.com
+    [date_sent] => 2017-07-17 1:05 pm
+    [customid] => 28
+    [email] => bhaumik.sassyinfotech@gmail.com
+    [transaction_id] => upz1707023
+    [total] => 12.2
+    [transaction_fee] => 0.2
+    [amount] => 12
+)
